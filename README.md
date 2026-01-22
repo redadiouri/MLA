@@ -372,15 +372,7 @@ Ce projet est sous licence MIT. Voir [LICENSE](LICENSE) pour plus de détails.
 
 ---
 
-## 📞 Contact & Support
-
-- **Issues** : [GitHub Issues](https://github.com/redadiouri/MLA/issues)
-- **Email** : [redadiouri@ipi.fr](mailto:redadiouri@ipi.fr)
-- **GitHub** : [@redadiouri](https://github.com/redadiouri)
-
----
-
-## 🗺️ Roadmap
+## ️ Roadmap
 
 ### Phase 1 (Actuelle) ✅
 - [x] Interface utilisateur principale
